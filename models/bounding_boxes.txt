@@ -1,0 +1,10 @@
+./datasets/train/Tan/1.png 245 427 659 972
+./datasets/train/Tan/4.png 195 273 657 893
+./datasets/train/VT-000003/Image132.png 259 114 462 397
+./datasets/train/VT-000003/Image137.png 215 102 430 401
+./datasets/train/VT-000004/Image100.png 331 159 487 386
+./datasets/train/VT-000004/Image110.png 333 149 493 350
+./datasets/train/VT-000006/Image125.png 272 90 457 354
+./datasets/train/VT-000006/Image82.png 264 105 443 355
+./datasets/train/VT-000008/Image23.png 217 200 329 343
+./datasets/train/VT-000008/Image35.png 245 184 355 316
