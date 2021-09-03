@@ -1,3 +1,11 @@
+## Cách chạy code :
+```
+ python3 img_ald.py
+ python3 faces_embedding.py
+ python3 train_softmax.py
+ python3 recognizer_stream1.py
+```
+
 # Face Recognition with InsightFace
 Recognize and manipulate faces with Python and its support libraries.  
 The project uses [MTCNN](https://github.com/ipazc/mtcnn) for detecting faces, then applies a simple alignment for each detected face and feeds those aligned faces into embeddings model provided by [InsightFace](https://github.com/deepinsight/insightface). Finally, a softmax classifier was put on top of embedded vectors for classification task.
